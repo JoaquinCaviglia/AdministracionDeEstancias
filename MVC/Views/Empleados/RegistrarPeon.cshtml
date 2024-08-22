@@ -1,0 +1,31 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@using Estancia;
+
+<h1>Registrarse</h1>
+<form method="post">
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="Email" placeholder="Email" class="form-control"/>
+
+    <label for="contraseña">Contraseña:</label>
+    <input type="password" id="contraseña" name="Contrasenia" placeholder="Contraseña" class="form-control" />
+
+    <label for="nombre">Nombre:</label>
+    <input type="text" id="nombre" name="Nombre" placeholder="Nombre" class="form-control" />
+
+    <label>Es residente?</label>
+    <select name="EsResidente" class="form-select">
+        <option value="@true"> Si</option>
+        <option value="@false"> No</option>
+    </select>
+
+    <input type="submit" value="Registrar" class="btn btn-primary mt-3" />
+</form>
+
+@if(ViewBag.Error != null)
+{
+    <p>@ViewBag.Error</p>
+}

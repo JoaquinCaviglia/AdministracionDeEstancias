@@ -1,0 +1,37 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@{
+    ViewData["Title"] = "Peones";
+}
+
+@using Estancia
+@model List<Peon>
+
+<h1>Listado de Peones</h1>
+
+@if (Model != null)
+{
+    <table class="table table-hover table-striped align-items-center table-bordered">
+        <thead class="text-center">
+        <th>Nombre</th>
+        <th>Residente</th>
+        <th>Fecha de Ingreso</th>
+        <th>Tareas</th>
+        </thead>
+        <tbody>
+            @foreach (Peon unP in Model)
+            {
+                <tr class="text-center">
+                    <td>@unP.Nombre</td>
+                    <td>@unP.EsResidente</td>
+                    <td>@unP.FechaIngreso.ToShortDateString()</td>
+                    <td><a href="/Empleados/VerTareas?email=@unP.Email" class="btn btn-primary">Ver</a></td>
+                </tr>
+            }
+
+        </tbody>
+    </table>
+}

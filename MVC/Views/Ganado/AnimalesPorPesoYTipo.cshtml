@@ -1,0 +1,58 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@{
+    ViewData["Title"] = "Animales por peso y tipo";
+}
+
+@using Estancia
+@model List<Res>
+
+<h1>Animales por Peso y Tipo</h1>
+
+<form method="post" action="/Ganado/AnimalesPorPesoYTipo">
+    <label for="peso">Peso:</label>
+    <input type="number" id="peso" name="Peso" value="peso" class="form-control" />
+    <select name="tipo" class="form-select">
+        <option>Elegir tipo:</option>
+        <!option value="Bovino">Bovino</!option>
+        <!option value="Ovino">Ovino</!option>
+    </select>
+    <div class="form-group">
+        <input type="submit" name="Filtrar" value="Filtrar" class="btn btn-primary mt-3" />
+    </div>
+
+</form>
+
+@if (Model != null)
+{
+    @if (Model.Count > 0)
+    {
+        <table class="table table-striped align-items-center table-bordered">
+            <thead class="text-center">
+            <th>Caravana</th>
+            <th>Tipo</th>
+            <th>Peso</th>
+            <th>Sexo</th>
+            <th>Potencial Ganancia</th>
+            <th>Vacunar</th>
+            </thead>
+            <tbody>
+                @foreach (Res unaR in Model)
+                {
+                    <tr class="text-center">
+                        <td>@unaR.Id</td>
+                        <td>@unaR.TipoRes()</td>
+                        <td>@unaR.PesoActual</td>
+                        <td>@unaR.Sexo</td>
+                        <td>@unaR.GananciaPotencial()</td>
+                        <td><a class="btn btn-primary" href="/Ganado/VacunarAnimal/@unaR.Id">Ir</a></td>
+                    </tr>
+                }
+        </table>
+    }
+}
+

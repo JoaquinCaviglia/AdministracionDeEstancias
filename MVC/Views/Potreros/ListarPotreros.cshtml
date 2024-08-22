@@ -1,0 +1,32 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@{
+    ViewData["Title"] = "Potreros";
+}
+
+@using Estancia
+@model List<Potrero>
+
+<table class="table table-hover table-striped align-items-center table-bordered">
+    <thead class="text-center">
+    <th> Cantidad Hectareas </th>
+    <th> Capacidad Animales</th>
+    <th> Cantidad Animales</th>
+    <th> Potrero</th>
+    </th>
+    <tbody>
+            @foreach (Potrero unP in Model)
+            {
+            <tr class="text-center">
+                <td>@unP.CantidadHectareas</td>
+                <td>@unP.CapacidadAnimales</td>
+                <td>@unP.CantidadAnimales</td>
+                <td><a href="/Potreros/AgregarRes?IdPotrero=@unP.Id&IdRes=@ViewBag.IdRes" class="btn btn-primary">Seleccionar</a></td>
+            </tr>
+            }
+    </tbody>
+</table>

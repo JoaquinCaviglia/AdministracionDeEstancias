@@ -1,0 +1,51 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@using Estancia
+@model Res
+
+<h1>Vacunar</h1>
+
+<form method="post">
+
+    <label>Caravana:</label>
+    <span class="form-control">@Model.Id</span>
+    <input type="text" id="caranva" name="idAnimal" value="@Model?.Id" class="form-control" hidden />
+
+    <label>Sexo:</label>
+    <span class="form-control">@Model?.Sexo</span>
+
+    <label>Raza:</label>
+    <span class="form-control">@Model?.Raza</span>
+
+    <label>Fecha de Nacimento:</label>
+    <span class="form-control">@Model?.FechaNacimiento.ToShortDateString()</span>
+
+    <label for="">Vacuna</label>
+    <select class="form-select" name="nombreVacuna">
+        <option>Elegir vacuna</option>
+        @foreach(Vacuna unaV in ViewBag.Vacunas)
+        {
+            <!option value="@unaV.Nombre">@unaV.Nombre</!option>
+        }
+    </select>
+
+    <label for="fechaIny">Fecha de Inyección:</label>
+    <input type="date" id="fechaIny" name="fechaIny" value="" class="form-control" />
+    
+    <div class="form-group">
+        <input type="submit" name="Vacunar" value="Vacunar" class="btn btn-primary mt-3" />
+    </div>
+    <div class="form-group">
+        <a href="/Ganado/Index" class="btn btn-primary">Volver</a>
+    </div>
+   
+</form>
+
+
+@if (ViewBag.Error != null)
+{
+    <p class="text-danger">@ViewBag.Error</p>
+}

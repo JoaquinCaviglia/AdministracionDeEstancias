@@ -1,0 +1,23 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<form method="post">
+    <label for="email">Email</label>
+    <input type="text" id="email" name="email" class="form-control" />
+
+    <label for="contrasenia">Contraseña</label>
+    <input type="password" id="contrasenia" name="password" class="form-control" />
+
+    <div class="form-group">
+        <input type="submit" value="Enviar" class="btn btn-primary mt-3" />
+    </div>
+
+</form>
+
+@if (ViewBag.Error != null)
+{
+    <p>@ViewBag.Error</p>
+}

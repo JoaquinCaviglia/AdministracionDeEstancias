@@ -1,0 +1,51 @@
+C:\Users\emmanuel.duffaut\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Segundo Semestre\Programacion2\Obligatorio\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\emmanuel.duffaut\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Segundo Semestre\Programacion2\Obligatorio\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\emmanuel.duffaut\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Segundo Semestre\Programacion2\Obligatorio\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\emmanuel.duffaut\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Segundo Semestre\Programacion2\Obligatorio\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\emmanuel.duffaut\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Segundo Semestre\Programacion2\Obligatorio\Obligatorio\Obligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\emmanuel.duffaut\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Segundo Semestre\Programacion2\Obligatorio\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emmanuel.duffaut\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Segundo Semestre\Programacion2\Obligatorio\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfoInputs.cache
+C:\Users\emmanuel.duffaut\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Segundo Semestre\Programacion2\Obligatorio\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfo.cs
+C:\Users\emmanuel.duffaut\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Segundo Semestre\Programacion2\Obligatorio\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\emmanuel.duffaut\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Segundo Semestre\Programacion2\Obligatorio\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.dll
+C:\Users\emmanuel.duffaut\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Segundo Semestre\Programacion2\Obligatorio\Obligatorio\Obligatorio\obj\Debug\net8.0\refint\Obligatorio.dll
+C:\Users\emmanuel.duffaut\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Segundo Semestre\Programacion2\Obligatorio\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.pdb
+C:\Users\emmanuel.duffaut\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Segundo Semestre\Programacion2\Obligatorio\Obligatorio\Obligatorio\obj\Debug\net8.0\Obligatorio.genruntimeconfig.cache
+C:\Users\emmanuel.duffaut\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Segundo Semestre\Programacion2\Obligatorio\Obligatorio\Obligatorio\obj\Debug\net8.0\ref\Obligatorio.dll
+C:\Users\emmanuel.duffaut\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Segundo Semestre\Programacion2\Obligatorio\Obligatorio\v1.1\Obligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\emmanuel.duffaut\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Segundo Semestre\Programacion2\Obligatorio\Obligatorio\v1.1\Obligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\emmanuel.duffaut\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Segundo Semestre\Programacion2\Obligatorio\Obligatorio\v1.1\Obligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\emmanuel.duffaut\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Segundo Semestre\Programacion2\Obligatorio\Obligatorio\v1.1\Obligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\emmanuel.duffaut\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Segundo Semestre\Programacion2\Obligatorio\Obligatorio\v1.1\Obligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\emmanuel.duffaut\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Segundo Semestre\Programacion2\Obligatorio\Obligatorio\v1.1\Obligatorio\bin\Debug\net8.0\Estancia.dll
+C:\Users\emmanuel.duffaut\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Segundo Semestre\Programacion2\Obligatorio\Obligatorio\v1.1\Obligatorio\bin\Debug\net8.0\Estancia.pdb
+C:\Users\emmanuel.duffaut\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Segundo Semestre\Programacion2\Obligatorio\Obligatorio\v1.1\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.AssemblyReference.cache
+C:\Users\emmanuel.duffaut\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Segundo Semestre\Programacion2\Obligatorio\Obligatorio\v1.1\Obligatorio\obj\Debug\net8.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emmanuel.duffaut\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Segundo Semestre\Programacion2\Obligatorio\Obligatorio\v1.1\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfoInputs.cache
+C:\Users\emmanuel.duffaut\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Segundo Semestre\Programacion2\Obligatorio\Obligatorio\v1.1\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfo.cs
+C:\Users\emmanuel.duffaut\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Segundo Semestre\Programacion2\Obligatorio\Obligatorio\v1.1\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\emmanuel.duffaut\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Segundo Semestre\Programacion2\Obligatorio\Obligatorio\v1.1\Obligatorio\obj\Debug\net8.0\Obligato.47458B9C.Up2Date
+C:\Users\emmanuel.duffaut\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Segundo Semestre\Programacion2\Obligatorio\Obligatorio\v1.1\Obligatorio\obj\Debug\net8.0\Obligatorio.dll
+C:\Users\emmanuel.duffaut\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Segundo Semestre\Programacion2\Obligatorio\Obligatorio\v1.1\Obligatorio\obj\Debug\net8.0\refint\Obligatorio.dll
+C:\Users\emmanuel.duffaut\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Segundo Semestre\Programacion2\Obligatorio\Obligatorio\v1.1\Obligatorio\obj\Debug\net8.0\Obligatorio.pdb
+C:\Users\emmanuel.duffaut\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Segundo Semestre\Programacion2\Obligatorio\Obligatorio\v1.1\Obligatorio\obj\Debug\net8.0\Obligatorio.genruntimeconfig.cache
+C:\Users\emmanuel.duffaut\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Segundo Semestre\Programacion2\Obligatorio\Obligatorio\v1.1\Obligatorio\obj\Debug\net8.0\ref\Obligatorio.dll
+C:\Users\emmanuel.duffaut\Documents\Obligatorio1P2\Obligatorio\bin\Debug\net8.0\Obligatorio.exe
+C:\Users\emmanuel.duffaut\Documents\Obligatorio1P2\Obligatorio\bin\Debug\net8.0\Obligatorio.deps.json
+C:\Users\emmanuel.duffaut\Documents\Obligatorio1P2\Obligatorio\bin\Debug\net8.0\Obligatorio.runtimeconfig.json
+C:\Users\emmanuel.duffaut\Documents\Obligatorio1P2\Obligatorio\bin\Debug\net8.0\Obligatorio.dll
+C:\Users\emmanuel.duffaut\Documents\Obligatorio1P2\Obligatorio\bin\Debug\net8.0\Obligatorio.pdb
+C:\Users\emmanuel.duffaut\Documents\Obligatorio1P2\Obligatorio\bin\Debug\net8.0\Estancia.dll
+C:\Users\emmanuel.duffaut\Documents\Obligatorio1P2\Obligatorio\bin\Debug\net8.0\Estancia.pdb
+C:\Users\emmanuel.duffaut\Documents\Obligatorio1P2\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.AssemblyReference.cache
+C:\Users\emmanuel.duffaut\Documents\Obligatorio1P2\Obligatorio\obj\Debug\net8.0\Obligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emmanuel.duffaut\Documents\Obligatorio1P2\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfoInputs.cache
+C:\Users\emmanuel.duffaut\Documents\Obligatorio1P2\Obligatorio\obj\Debug\net8.0\Obligatorio.AssemblyInfo.cs
+C:\Users\emmanuel.duffaut\Documents\Obligatorio1P2\Obligatorio\obj\Debug\net8.0\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\emmanuel.duffaut\Documents\Obligatorio1P2\Obligatorio\obj\Debug\net8.0\Obligatorio.sourcelink.json
+C:\Users\emmanuel.duffaut\Documents\Obligatorio1P2\Obligatorio\obj\Debug\net8.0\Obligato.47458B9C.Up2Date
+C:\Users\emmanuel.duffaut\Documents\Obligatorio1P2\Obligatorio\obj\Debug\net8.0\Obligatorio.dll
+C:\Users\emmanuel.duffaut\Documents\Obligatorio1P2\Obligatorio\obj\Debug\net8.0\refint\Obligatorio.dll
+C:\Users\emmanuel.duffaut\Documents\Obligatorio1P2\Obligatorio\obj\Debug\net8.0\Obligatorio.pdb
+C:\Users\emmanuel.duffaut\Documents\Obligatorio1P2\Obligatorio\obj\Debug\net8.0\Obligatorio.genruntimeconfig.cache
+C:\Users\emmanuel.duffaut\Documents\Obligatorio1P2\Obligatorio\obj\Debug\net8.0\ref\Obligatorio.dll

@@ -1,0 +1,36 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Cerrar Tarea";
+}
+@using Estancia
+@model TareaAsignada
+
+<h1>Cerrar tarea</h1>
+
+<form method="post">
+    <label for="desc">Descripción:</label>
+    <span class="form-control">@Model.Tarea.Descripcion</span>
+
+    <label for="fecPactada">Fecha Pactada:</label>
+    <span class="form-control">@Model.FechaPactada.ToShortDateString()</span>
+
+    <label for="comentario">Comentario:</label>
+    <input type="text" id="comentario" name="Comentario" value="" class="form-control" />
+
+    <label for="fecCierre">Fecha de Cierre:</label>
+    <input type="date" name="FechaCierre" value="" class="form-control" />
+
+    <div class="form-group">
+        <input type="submit" value="Guardar" class="btn btn-primary mt-3" />
+    </div>
+
+    <input type="number" name="Tarea.Id" value="@Model?.Tarea.Id" class="form-control" hidden />
+
+</form>
+
+@if (ViewBag.Error != null)
+{
+    <p class="text-danger">@ViewBag.Error</p>
+}

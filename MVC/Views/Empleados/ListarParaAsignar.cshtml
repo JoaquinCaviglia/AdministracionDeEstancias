@@ -1,0 +1,36 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Tareas";
+}
+
+@using Estancia
+@model List<Tarea>
+<h1>Asignar Tareas</h1>
+
+<a href="/Tareas/Alta" class="btn btn-dark" >Nueva Tarea</a>
+
+@if (ViewBag.Exito != null)
+{
+    <p class="text-success">@ViewBag.Exito</p>
+}
+
+<table class="table table-hover table-striped align-items-center table-bordered">
+    <thead class="text-center">
+        <th>ID</th>
+        <th>Descripción</th>
+        <th>Seleccionar Peon</th>
+    </thead>
+    <tbody>
+        @foreach(Tarea unaT in Model)
+        {
+            <tr class="text-center">
+                <td>@unaT.Id</td>
+                <td>@unaT.Descripcion</td>
+                <td><a href="/Empleados/Asignar?id=@unaT.Id&email=@ViewBag.Email" class="btn btn-primary">Seleccionar</a></td>
+            </tr>
+        }
+        
+    </tbody>
+</table>

@@ -1,0 +1,61 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@{
+    ViewData["Title"] = "Alta Bovino";
+}
+
+@using Estancia
+@model Bovino
+
+<h1>Alta Bovino</h1>
+
+<form method="post">
+    @* ASK: Mostramos el enum tipo lista ? *@
+    <label for="Alimento">Tipo de Alimento:</label>
+    <input type="text" id="Alimento" name="Alimento" value="@Model?.Alimento" placeholder="GRANO o PASTURA" class="form-control" />
+
+    <label for="caravana">Caravana(*):</label>
+    <input type="text" id="caravana" name="Id" value="@Model?.Id" placeholder="Caravana" class="form-control" Required />
+
+    @* ASK: Mostramos el enum tipo lista ? *@
+    <label for="sexo">Sexo:</label>
+    <input type="text" id="sexo" name="Sexo" value="@Model?.Sexo" placeholder="Sexo" class="form-control" />
+
+    <label for="raza">Raza:</label>
+    <input type="text" id="raza" name="Raza" value="@Model?.Raza" placeholder="Raza" class="form-control" />
+
+    <label for="fnac">Fecha de Nacimiento:</label>
+    <input type="date" id="fnac" name="FechaNacimiento" value="@Model?.FechaNacimiento" class="form-control" />
+
+    <label for="costoAdq">Costo de Adquisición:</label>
+    <input type="number" id="costoAdq" name="CostoAdquisicion" value="@Model?.CostoAdquisicion" placeholder="Costo adquisición" class="form-control" />
+
+    <label for="pesoActual">Peso:</label>
+    <input type="number" id="pesoActual" name="PesoActual" value="@Model?.PesoActual" placeholder="Peso" class="form-control" />
+
+    <label for="esHibrido">Hibrido?</label>
+    <select name="EsHibrido" class="form-select form-control">
+        <option>Elegir</option>
+        <!option value="true">Si</!option>
+        <!option  value="false">No</!option>
+    </select>
+    <input type="text" name="Libre" value="true" class="form-control" hidden />
+
+    <div class="form-group">
+        <input type="submit" name="Agregar" value="Agregar" class="btn btn-primary mt-3" />
+    </div>
+
+</form>
+
+
+@* <!option @(unB.Codigo == Model?.Direccion.Barrio.Codigo ? "selected" : "") value="@unB.Codigo" >@unB.Nombre</!option> *@
+
+
+@if (ViewBag.Error != null)
+{
+    <p class="text-danger">@ViewBag.Error</p>
+}

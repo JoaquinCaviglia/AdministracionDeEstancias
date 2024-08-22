@@ -1,0 +1,23 @@
+C:\Users\emmanuel.duffaut\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Segundo Semestre\Programacion2\Obligatorio\Obligatorio\v1.1\Estancia2\bin\Debug\net8.0\Estancia.deps.json
+C:\Users\emmanuel.duffaut\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Segundo Semestre\Programacion2\Obligatorio\Obligatorio\v1.1\Estancia2\bin\Debug\net8.0\Estancia.dll
+C:\Users\emmanuel.duffaut\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Segundo Semestre\Programacion2\Obligatorio\Obligatorio\v1.1\Estancia2\bin\Debug\net8.0\Estancia.pdb
+C:\Users\emmanuel.duffaut\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Segundo Semestre\Programacion2\Obligatorio\Obligatorio\v1.1\Estancia2\obj\Debug\net8.0\Estancia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emmanuel.duffaut\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Segundo Semestre\Programacion2\Obligatorio\Obligatorio\v1.1\Estancia2\obj\Debug\net8.0\Estancia.AssemblyInfoInputs.cache
+C:\Users\emmanuel.duffaut\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Segundo Semestre\Programacion2\Obligatorio\Obligatorio\v1.1\Estancia2\obj\Debug\net8.0\Estancia.AssemblyInfo.cs
+C:\Users\emmanuel.duffaut\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Segundo Semestre\Programacion2\Obligatorio\Obligatorio\v1.1\Estancia2\obj\Debug\net8.0\Estancia.csproj.CoreCompileInputs.cache
+C:\Users\emmanuel.duffaut\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Segundo Semestre\Programacion2\Obligatorio\Obligatorio\v1.1\Estancia2\obj\Debug\net8.0\Estancia.dll
+C:\Users\emmanuel.duffaut\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Segundo Semestre\Programacion2\Obligatorio\Obligatorio\v1.1\Estancia2\obj\Debug\net8.0\refint\Estancia.dll
+C:\Users\emmanuel.duffaut\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Segundo Semestre\Programacion2\Obligatorio\Obligatorio\v1.1\Estancia2\obj\Debug\net8.0\Estancia.pdb
+C:\Users\emmanuel.duffaut\OneDrive - Facultad de Ingenieria - Universidad ORT Uruguay\Segundo Semestre\Programacion2\Obligatorio\Obligatorio\v1.1\Estancia2\obj\Debug\net8.0\ref\Estancia.dll
+C:\Users\emmanuel.duffaut\Documents\Obligatorio1P2\Estancia2\bin\Debug\net8.0\Estancia.deps.json
+C:\Users\emmanuel.duffaut\Documents\Obligatorio1P2\Estancia2\bin\Debug\net8.0\Estancia.dll
+C:\Users\emmanuel.duffaut\Documents\Obligatorio1P2\Estancia2\bin\Debug\net8.0\Estancia.pdb
+C:\Users\emmanuel.duffaut\Documents\Obligatorio1P2\Estancia2\obj\Debug\net8.0\Estancia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emmanuel.duffaut\Documents\Obligatorio1P2\Estancia2\obj\Debug\net8.0\Estancia.AssemblyInfoInputs.cache
+C:\Users\emmanuel.duffaut\Documents\Obligatorio1P2\Estancia2\obj\Debug\net8.0\Estancia.AssemblyInfo.cs
+C:\Users\emmanuel.duffaut\Documents\Obligatorio1P2\Estancia2\obj\Debug\net8.0\Estancia.csproj.CoreCompileInputs.cache
+C:\Users\emmanuel.duffaut\Documents\Obligatorio1P2\Estancia2\obj\Debug\net8.0\Estancia.sourcelink.json
+C:\Users\emmanuel.duffaut\Documents\Obligatorio1P2\Estancia2\obj\Debug\net8.0\Estancia.dll
+C:\Users\emmanuel.duffaut\Documents\Obligatorio1P2\Estancia2\obj\Debug\net8.0\refint\Estancia.dll
+C:\Users\emmanuel.duffaut\Documents\Obligatorio1P2\Estancia2\obj\Debug\net8.0\Estancia.pdb
+C:\Users\emmanuel.duffaut\Documents\Obligatorio1P2\Estancia2\obj\Debug\net8.0\ref\Estancia.dll

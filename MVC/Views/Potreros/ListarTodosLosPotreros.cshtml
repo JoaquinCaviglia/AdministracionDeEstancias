@@ -1,0 +1,50 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@{
+    ViewData["Title"] = "Potreros";
+}
+
+@using Estancia
+@model List<Potrero>
+
+<h1>Potreros</h1>
+
+@if (ViewBag.Error != null)
+{
+    <p class="text-danger">@ViewBag.Error</p>
+}
+
+@if (Model != null)
+{
+    @if (Model.Count > 0)
+    {
+        <table class="table table-striped align-items-center table-bordered">
+            <thead class="text-center">
+            <th>Id</th>
+            <th>Descripción</th>
+            <th>Animales Pastando</th>
+            <th>Cantidad de Hectareas</th>
+            <th>Capacidad</th>
+            <th>Precio de Venta</th>
+            </thead>
+            <tbody>
+                @foreach(Potrero unP in Model)
+                {
+                    <tr class="text-center">
+                        <td>@unP.Id</td>
+                        <td>@unP.Descripcion</td>
+                        <td>@(unP.CantidadAnimales == 0 ? "No Hay" : unP.CantidadAnimales)</td>
+                        <td>@unP.CantidadHectareas</td>
+                        <td>@unP.CapacidadMaxima</td>
+                        <td>@unP.CostoTotalCrianza()</td>
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+    }    
+}

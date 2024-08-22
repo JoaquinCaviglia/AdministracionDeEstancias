@@ -1,0 +1,35 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Tareas";
+}
+@using Estancia
+@model List<TareaAsignada>
+
+<h1>Tareas</h1>
+
+@if (Model.Count > 0)
+{
+    <table class="table table-hover table-striped align-items-center table-bordered">
+        <thead class="text-center">
+            <th>Fecha Pactada</th>
+            <th>Fecha Cierre</th>
+            <th>Estado</th>
+            <th>Descripción</th>
+        </thead>
+        <tbody>
+            @foreach (TareaAsignada unaTa in Model)
+            {
+                <tr class="text-center">
+                    <td  class="text-center">@unaTa.FechaPactada.ToShortDateString()</td>
+                    <td>@unaTa.FechaCierre.ToShortDateString()</td>
+                    <td>@(unaTa.Comentario == null ? "NO CERRADA" : "CERRADA")</td>
+                    <td>@unaTa.Tarea.Descripcion</td>
+                </tr>
+            }
+
+        </tbody>
+
+    </table>
+}

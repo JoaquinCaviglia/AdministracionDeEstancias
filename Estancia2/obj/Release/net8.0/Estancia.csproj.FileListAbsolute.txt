@@ -1,0 +1,12 @@
+C:\Users\emmanuel.duffaut\Documents\Obligatorio1P2\Estancia2\bin\Release\net8.0\Estancia.deps.json
+C:\Users\emmanuel.duffaut\Documents\Obligatorio1P2\Estancia2\bin\Release\net8.0\Estancia.dll
+C:\Users\emmanuel.duffaut\Documents\Obligatorio1P2\Estancia2\bin\Release\net8.0\Estancia.pdb
+C:\Users\emmanuel.duffaut\Documents\Obligatorio1P2\Estancia2\obj\Release\net8.0\Estancia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emmanuel.duffaut\Documents\Obligatorio1P2\Estancia2\obj\Release\net8.0\Estancia.AssemblyInfoInputs.cache
+C:\Users\emmanuel.duffaut\Documents\Obligatorio1P2\Estancia2\obj\Release\net8.0\Estancia.AssemblyInfo.cs
+C:\Users\emmanuel.duffaut\Documents\Obligatorio1P2\Estancia2\obj\Release\net8.0\Estancia.csproj.CoreCompileInputs.cache
+C:\Users\emmanuel.duffaut\Documents\Obligatorio1P2\Estancia2\obj\Release\net8.0\Estancia.sourcelink.json
+C:\Users\emmanuel.duffaut\Documents\Obligatorio1P2\Estancia2\obj\Release\net8.0\Estancia.dll
+C:\Users\emmanuel.duffaut\Documents\Obligatorio1P2\Estancia2\obj\Release\net8.0\refint\Estancia.dll
+C:\Users\emmanuel.duffaut\Documents\Obligatorio1P2\Estancia2\obj\Release\net8.0\Estancia.pdb
+C:\Users\emmanuel.duffaut\Documents\Obligatorio1P2\Estancia2\obj\Release\net8.0\ref\Estancia.dll
